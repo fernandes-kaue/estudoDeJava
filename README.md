@@ -4,3 +4,5 @@
  Criado durante o curso de Git e GitHub do Curso Em Vídeo.
 
 Linha adicionada diretamente no site do GitHub.
+
+Linha adicionada pelo VSCode.
